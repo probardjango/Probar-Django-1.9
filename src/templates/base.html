@@ -1,0 +1,22 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block head_title %}{% endblock %}</title>
+	<link rel='stylesheet' href='{% static "css/base.css" %}'/>
+</head>
+<body>
+
+<ul>
+	<li><a href='{% url "inicio" %}'>Inicio</a></li>
+	<li><a href='{% url "sobre" %}'>Sobre Nosotros</a></li>
+</ul>
+
+{% block content %}
+{% endblock %}
+
+
+
+</body>
+</html>

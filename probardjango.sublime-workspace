@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"AdminRegistrado"
+			],
+			[
+				"Regi",
+				"Registrado"
+			],
+			[
+				"contacto",
+				"contacto_mensaje"
+			],
+			[
+				"nombre",
+				"nombre_signup"
+			],
+			[
+				"Reg",
+				"RegistrarForm"
+			],
+			[
+				"targe",
+				"target_object_id"
+			],
+			[
+				"ac",
+				"action_object_id"
+			],
+			[
+				"action",
+				"action_content_type"
+			],
+			[
+				"sender",
+				"sender_object_id"
+			],
+			[
+				"sender_",
+				"sender_content_type"
+			],
+			[
+				"Tagged",
+				"TaggedItemInline"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"parent_",
+				"parent_comment"
+			],
+			[
+				"parent",
+				"parent_comment"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"title",
+				"title_align_center"
+			],
+			[
+				"Spe",
+				"SpecialDietAdmin"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"tit",
+				"title_align_center"
+			],
+			[
+				"contac",
+				"contact_message"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"Sign",
+				"SignUpAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/probardjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 3549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/boletin/models.py",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/boletin/views.py",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Karlita/Desktop/probardjango/src/boletin/forms.py",
+		"/C/Users/Karlita/Desktop/probardjango/src/templates/inicio.html",
+		"/C/Users/Karlita/Desktop/probardjango/src/my_static_files/css/base.css",
+		"/C/Users/Karlita/Desktop/probardjango/src/templates/base.html",
+		"/C/Users/Karlita/Desktop/probardjango/src/probardjango/urls.py",
+		"/C/Users/Karlita/Desktop/probardjango/src/templates/sobre.html",
+		"/C/Users/Karlita/Desktop/probardjango/src/boletin/views.py",
+		"/C/Users/Karlita/Desktop/probardjango/src/boletin/admin.py",
+		"/C/Users/Karlita/Desktop/probardjango/src/templates/code.txt",
+		"/C/Users/Karlita/Desktop/probardjango/src/boletin/models.py",
+		"/C/Users/Karlita/Desktop/probardjango/src/probardjango/settings.py",
+		"/C/Users/Karlita/Desktop/.gitignore",
+		"/C/Users/Karlita/Desktop/probardjango/src/manage.py",
+		"/C/Users/Karlita/Desktop/trydjango/src/trydjango/urls.py",
+		"/C/Users/Karlita/Desktop/trydjango/src/trydjango/settings.py",
+		"/C/Users/Karlita/Desktop/trydjango/src/boletin/forms.py",
+		"/C/Users/Karlita/Desktop/trydjango/src/boletin/models.py",
+		"/C/Users/Karlita/Desktop/trydjango/src/templates/forms.html",
+		"/C/Users/Karlita/Desktop/trydjango/src/templates/inicio.html",
+		"/C/Users/Karlita/Desktop/trydjango/src/boletin/admin.py",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/models.py",
+		"/C/Users/Karlita/Desktop/kk/src/kk/settings.py",
+		"/C/Users/Karlita/Desktop/kk/src/templates/forms.html",
+		"/C/Users/Karlita/Desktop/kk/src/kk/urls.py",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/admin.py",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/templates/inicio.html",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/templates/home.html",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/views.py",
+		"/C/Users/Karlita/Desktop/kk/src/templates/inicio.html",
+		"/C/Users/Karlita/Desktop/kk/src/Newsletter/models.py",
+		"/C/Users/Karlita/Desktop/kk/src/Newsletter/admin.py",
+		"/C/Users/Karlita/Desktop/kk/src/Newsletter/forms.py",
+		"/C/Users/Karlita/Desktop/kk/src/db.sqlite3",
+		"/C/Users/Karlita/Desktop/kk/src/Newsletter/views.py",
+		"/C/Users/Karlita/Desktop/kk/src/templates/home.html",
+		"/C/Users/Karlita/Desktop/kk/src/Newsletter/templates/home.html",
+		"/C/Users/Karlita/Desktop/kk/src/manage.py",
+		"/C/Users/Karlita/Desktop/kk/src/signup/views.py",
+		"/C/Users/Karlita/Desktop/kk/src/contact/admin.py",
+		"/C/Users/Karlita/Desktop/kk/src/contact/models.py",
+		"/C/Users/Karlita/Desktop/func.py",
+		"/C/Users/Karlita/Desktop/srvup/src/videos/admin.py",
+		"/C/Users/Karlita/Desktop/srvup/src/notifications/admin.py",
+		"/C/Users/Karlita/Desktop/srvup/src/notifications/models.py",
+		"/C/Users/Karlita/Desktop/srvup/src/notifications/signals.py",
+		"/C/Users/Karlita/Desktop/srvup/src/comments/views.py",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/comments/comment_thread.html",
+		"/C/Users/Karlita/Desktop/srvup/src/srvup/settings.py",
+		"/C/Users/Karlita/Desktop/srvup/src/comments/models.py",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/base.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/videos/video_detail.html",
+		"/C/Users/Karlita/Desktop/srvup/src/comments/forms.py",
+		"/C/Users/Karlita/Desktop/srvup/src/srvup/urls.py",
+		"/C/Users/Karlita/Desktop/srvup/src/videos/views.py",
+		"/C/Users/Karlita/Desktop/srvup/src/srvup/views.py",
+		"/C/Users/Karlita/Desktop/srvup/src/videos/models.py",
+		"/C/Users/Karlita/Desktop/srvup/src/srvup/forms.py",
+		"/C/Users/Karlita/Downloads/karlis_friends.py",
+		"/C/Users/Karlita/Desktop/fks/Scripts/django-admin.py",
+		"/C/Users/Karlita/Desktop/srvup/src/accounts/admin.py",
+		"/C/Users/Karlita/Desktop/srvup/src/comments/admin.py",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/videos/category_detail.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/videos/video_list.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/videos/category_list.html",
+		"/C/Users/Karlita/Desktop/srvup/src/accounts/models.py",
+		"/C/Users/Karlita/Desktop/srvup/src/accounts/forms.py",
+		"/C/Users/Karlita/Desktop/srvup/src/accounts/views.py",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/navbar.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/form.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/home.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/extra info.txt",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/video/video_detail.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/video/video_list.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/login.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/javascript.html",
+		"/C/Users/Karlita/Desktop/srvup/src/templates/extra_head_info.html",
+		"/C/Users/Karlita/Desktop/srvup/src/manage.py",
+		"/C/Users/Karlita/Desktop/kk/static_in_env/static_root/css/navbar-static-top.css",
+		"/C/Users/Karlita/Desktop/kk/src/templates/base.html",
+		"/C/Users/Karlita/Desktop/kk/src/newsletter/forms.py",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/Karlita/Desktop/kk/src/templates/navbar.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/registration_form.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/logout.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/login.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/password_reset_done.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/activation_email_subject.txt",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/activation_complete.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/registration/activation_email.txt",
+		"/C/Users/Karlita/Desktop/kk/src/kk/views.py",
+		"/C/Users/Karlita/Desktop/kk/src/kk/wsgi.py",
+		"/C/Users/Karlita/Desktop/kk/src/templates/about.html",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/css/custom.css",
+		"/C/Users/Karlita/Desktop/kk/src/templates/head_css.html",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/css/custom_css.css",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/css/custom_css",
+		"/C/Users/Karlita/Desktop/kk/src/templates/ex_fluid.html",
+		"/C/Users/Karlita/Desktop/kk/src/templates/javascript.html",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/img/ejemplo.txt",
+		"/C/Users/Karlita/Desktop/kk/src/static_in_pro/our_static/ejemplo.txt",
+		"/C/Users/Karlita/Desktop/project/src/newsletter/views.py",
+		"/C/Users/Karlita/Desktop/project/src/newsletter/tests.py",
+		"/C/Users/Karlita/Desktop/project/src/templates/home.html",
+		"/C/Users/Karlita/Desktop/project/src/project/urls.py",
+		"/C/Users/Karlita/Desktop/project/src/project/settings.py",
+		"/C/Users/Karlita/Desktop/project/src/newsletter/models.py",
+		"/C/Users/Karlita/Desktop/project/src/newsletter/templates/home.html",
+		"/C/Users/Karlita/Desktop/project/project.sublime-project",
+		"/C/Users/Karlita/Desktop/testproject/src/testproject/settings.py",
+		"/C/Users/Karlita/Desktop/testproject/src/testproject/urls.py",
+		"/C/Users/Karlita/Desktop/testproject/src/newsletter/views.py",
+		"/C/Users/Karlita/Desktop/testproject/src/templates/home.html",
+		"/C/Users/Karlita/Desktop/testproject/src/newsletter/templates/home.html",
+		"/C/Users/Karlita/Desktop/testproject/src/newsletter/admin.py",
+		"/C/Users/Karlita/Desktop/testproject/src/testproject/__init__.py",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/home.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/forms.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/base.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/example_fluid.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/newsletter/views.py",
+		"/C/Users/Karlita/Desktop/trydjango18/src/trydjango18/urls.py",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/navbar.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/trydjango18/views.py",
+		"/C/Users/Karlita/Desktop/trydjango18/src/static_in_pro/our_static/css/custom.css",
+		"/C/Users/Karlita/Desktop/trydjango18/src/templates/head_css.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/Karlita/Desktop/trydjango18/src/static_in_pro/our_static/css/custom_css.html",
+		"/C/Users/Karlita/Desktop/trydjango18/src/static_in_pro/our_static/css/bootstrap.min.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[\"",
+			"=''",
+			"value",
+			"/>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/probardjango/settings.py",
+					"settings":
+					{
+						"buffer_size": 3549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3300,
+								3300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/boletin/models.py",
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/boletin/views.py",
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								941,
+								941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 46.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/inicio.html",
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true
+}

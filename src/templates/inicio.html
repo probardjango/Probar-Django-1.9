@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+
+{% block head_title %}
+INICIO
+{% endblock %}
+
+
+{% block content %}
+<h1>{{ titulo }}</h1>
+
+
+{% if form %}
+<form method='POST' action='' enctype='multipart/form-data'>{% csrf_token %}
+{{ form.as_p }}
+<input type='submit' value='Registrarse'>
+</form>
+{% endif %}
+
+
+{% for obj in queryset %}
+<ul><li>{{ obj.email }}</il></ul>
+{% endfor %}
+
+
+{% endblock %}
