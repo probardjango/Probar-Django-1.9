@@ -1,8 +1,9 @@
 from django.contrib import admin
 
 # Register your models here.
-from .forms import RegistradoForm
+from .forms import RegistradoForm 
 from .models import Registrado 
+
 
 
 class AdminRegistrado(admin.ModelAdmin):
